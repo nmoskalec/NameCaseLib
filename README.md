@@ -5,6 +5,12 @@ NameCaseLib — библиотека PHP5, предназначенная для
 - Демонстрация работы - http://namecaselib.com/case/
 - Документация - http://namecaselib.com/book/
 
+## 0.4.1 (2023-02-15)
+- Добавлен комментарий в README.md
+- Изменения сохранены на жестком диске
+- Опубликован на https://github.com/nmoskalec/NameCaseLib
+- Сделан pull reqest
+
 ## 0.4 (2011-07-09)
 - Полная переработка кода
 - Создание для каждого слова класса NCLNameCaseWord
